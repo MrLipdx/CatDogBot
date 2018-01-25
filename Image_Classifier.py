@@ -39,7 +39,7 @@ MODEL_NAME = "tflearn_AlexNet"
 
 #Folder Constants
 #where data is stored
-DATA_PATH = "/media/mrlipdx/F88A16BB8A1675FA/Users/MrLipdx/ml"
+DATA_PATH = "./data"
 #where the images from the dataset are
 IMAGE_FOLDER = os.path.join(DATA_PATH, "train")
 #where to save the HDF5 files

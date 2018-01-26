@@ -5,12 +5,12 @@ This bot is my attempt at implementing my first image classifier, I was inspired
 
 ## How to get it up and running?
 The process is not easy but I will try to explain.
-1. install dependencies `pip install -r requirements.txt`
-2. Download the dataset from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data)
-3. make sure you have more than 30 GB of storage space
-4. run Image_Classifier `python3 Image_Classifier.py`
-5. get a discord bot token and change the last line from CatBotDog.py `bot.run('token')` to your token
-6. cross your fingers you didn't make a mistake
+1. Install dependencies `pip install -r requirements.txt`.
+2. Download the dataset from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats/data) and place it in `./data/train`.
+3. Make sure you have more than 30 GB of storage space for the next step.
+4. Run Image_Classifier `python3 Image_Classifier.py` to train the model
+5. Get a discord bot token and change the last line from CatBotDog.py `bot.run('token')` to your token
+6. Cross your fingers you didn't make a mistake
 
 # File Description
 

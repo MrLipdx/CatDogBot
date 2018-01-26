@@ -15,13 +15,8 @@ The process is not easy but I will try to explain.
 # File Description
 
 File name | Description 
---- | ---
 Image_Classifier.ipynb |  A jupyter notebook where I tested the model, with a lot of info on why I made some choices
---- | ---
 Image_Classifier.py | A python program where I trained the model to avoid having jupyter running in order to avoid more memory usage
---- | ---
 README.md | project's readme
---- | ---
 catdog.py | the discord bot script
---- | ---
 requirements.txt | the project's requirements for pip

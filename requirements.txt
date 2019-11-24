@@ -1,7 +1,7 @@
 h5py==2.7.1
 discord.py==0.16.12
 numpy==1.14.0
-requests==2.18.4
+requests==2.20.0
 matplotlib==2.1.1
 tflearn==0.3.2
 tensorflow==0.10.0rc0
